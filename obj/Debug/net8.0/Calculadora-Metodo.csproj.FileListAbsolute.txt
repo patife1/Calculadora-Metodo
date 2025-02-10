@@ -1,0 +1,15 @@
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.exe
+C:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.deps.json
+C:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.runtimeconfig.json
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.dll
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.pdb
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.AssemblyInfo.cs
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.sourcelink.json
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.dll
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\refint\Calculadora-Metodo.dll
+c:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.pdb
+C:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.genruntimeconfig.cache
+C:\Users\Aluno\Documents\izabelly\Calculadora-Metodo\obj\Debug\net8.0\ref\Calculadora-Metodo.dll

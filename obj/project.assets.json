@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
       "projectName": "Calculadora-Metodo",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\Calculadora-Metodo\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\izabelly\\Calculadora-Metodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
